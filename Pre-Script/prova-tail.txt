@@ -1,0 +1,10 @@
+drwxr-xr-x 2 marco marco 4096 mar 19 11:39 Immagini
+-rw-rw-r-- 1 marco marco    0 mar 26 10:29 ls
+drwxr-xr-x 2 marco marco 4096 mar 12 21:00 Modelli
+drwxr-xr-x 2 marco marco 4096 mar 12 21:00 Musica
+-rw-rw-r-- 1 marco marco   33 mar 26 10:30 prova.txt
+drwxr-xr-x 2 marco marco 4096 mar 12 21:00 Pubblici
+drwxr-xr-x 2 marco marco 4096 mar 12 21:00 Scaricati
+drwxr-xr-x 2 marco marco 4096 mar 12 21:00 Scrivania
+drwxr-xr-x 3 marco marco 4096 mar 12 21:01 snap
+drwxr-xr-x 2 marco marco 4096 mar 12 21:00 Video

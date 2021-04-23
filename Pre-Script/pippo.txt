@@ -1,0 +1,4 @@
+ciao sono pippo.txt 
+pippo dovrebbe essere un cane
+pure pluto lo è 
+perché però pippo non cammina su 4 zampe e pluto sì?

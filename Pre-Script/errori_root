@@ -1,0 +1,1803 @@
+ls: impossibile aprire la directory '/boot/efi': Permesso negato
+ls: impossibile aprire la directory '/etc/cups/ssl': Permesso negato
+ls: impossibile aprire la directory '/etc/polkit-1/localauthority': Permesso negato
+ls: impossibile aprire la directory '/etc/ssl/private': Permesso negato
+ls: impossibile aprire la directory '/lost+found': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/1/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/1/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/1/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/1/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1/task/1/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1/task/1/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1/task/1/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/1/task/1/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/1/task/1/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/1/task/1/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/10/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/10/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/10/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/10/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/10/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/10/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/10/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/10/task/10/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/10/task/10/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/10/task/10/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/10/task/10/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/10/task/10/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/10/task/10/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/105/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/105/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/105/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/105/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/105/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/105/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/105/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/105/task/105/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/105/task/105/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/105/task/105/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/105/task/105/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/105/task/105/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/105/task/105/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/108/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/108/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/108/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/108/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/108/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/108/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/108/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/108/task/108/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/108/task/108/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/108/task/108/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/108/task/108/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/108/task/108/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/108/task/108/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/109/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/109/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/109/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/109/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/109/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/109/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/109/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/109/task/109/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/109/task/109/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/109/task/109/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/109/task/109/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/109/task/109/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/109/task/109/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/11/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/11/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/11/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/11/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/11/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/11/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/11/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/11/task/11/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/11/task/11/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/11/task/11/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/11/task/11/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/11/task/11/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/11/task/11/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1117/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1117/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1117/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/1117/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/1117/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/1117/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/1117/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1117/task/1117/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1117/task/1117/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1117/task/1117/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/1117/task/1117/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/1117/task/1117/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/1117/task/1117/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1136/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1136/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1136/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/1136/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/1136/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/1136/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/1136/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1136/task/1136/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1136/task/1136/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1136/task/1136/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/1136/task/1136/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/1136/task/1136/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/1136/task/1136/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1136/task/1138/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1136/task/1138/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1136/task/1138/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/1136/task/1138/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/1136/task/1138/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/1136/task/1138/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1136/task/1139/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1136/task/1139/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1136/task/1139/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/1136/task/1139/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/1136/task/1139/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/1136/task/1139/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/114/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/114/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/114/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/114/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/114/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/114/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/114/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/114/task/114/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/114/task/114/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/114/task/114/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/114/task/114/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/114/task/114/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/114/task/114/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/115/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/115/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/115/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/115/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/115/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/115/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/115/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/115/task/115/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/115/task/115/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/115/task/115/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/115/task/115/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/115/task/115/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/115/task/115/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/12/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/12/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/12/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/12/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/12/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/12/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/12/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/12/task/12/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/12/task/12/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/12/task/12/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/12/task/12/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/12/task/12/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/12/task/12/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/13/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/13/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/13/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/13/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/13/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/13/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/13/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/13/task/13/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/13/task/13/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/13/task/13/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/13/task/13/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/13/task/13/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/13/task/13/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/14/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/14/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/14/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/14/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/14/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/14/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/14/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/14/task/14/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/14/task/14/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/14/task/14/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/14/task/14/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/14/task/14/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/14/task/14/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1461/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1461/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1461/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/1461/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/1461/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/1461/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/1461/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1461/task/1461/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1461/task/1461/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1461/task/1461/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/1461/task/1461/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/1461/task/1461/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/1461/task/1461/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1461/task/1476/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1461/task/1476/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1461/task/1476/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/1461/task/1476/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/1461/task/1476/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/1461/task/1476/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1461/task/1478/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1461/task/1478/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1461/task/1478/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/1461/task/1478/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/1461/task/1478/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/1461/task/1478/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/15/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/15/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/15/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/15/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/15/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/15/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/15/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/15/task/15/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/15/task/15/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/15/task/15/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/15/task/15/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/15/task/15/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/15/task/15/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/155/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/155/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/155/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/155/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/155/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/155/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/155/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/155/task/155/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/155/task/155/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/155/task/155/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/155/task/155/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/155/task/155/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/155/task/155/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/156/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/156/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/156/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/156/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/156/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/156/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/156/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/156/task/156/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/156/task/156/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/156/task/156/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/156/task/156/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/156/task/156/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/156/task/156/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/16/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/16/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/16/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/16/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/16/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/16/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/16/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/16/task/16/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/16/task/16/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/16/task/16/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/16/task/16/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/16/task/16/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/16/task/16/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1637/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1637/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1637/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/1637/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/1637/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/1637/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/1637/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1637/task/1637/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1637/task/1637/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1637/task/1637/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/1637/task/1637/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/1637/task/1637/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/1637/task/1637/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1637/task/1638/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1637/task/1638/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1637/task/1638/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/1637/task/1638/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/1637/task/1638/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/1637/task/1638/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1637/task/1639/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1637/task/1639/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1637/task/1639/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/1637/task/1639/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/1637/task/1639/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/1637/task/1639/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1637/task/1640/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1637/task/1640/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1637/task/1640/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/1637/task/1640/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/1637/task/1640/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/1637/task/1640/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1637/task/1641/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1637/task/1641/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/1637/task/1641/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/1637/task/1641/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/1637/task/1641/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/1637/task/1641/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/17/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/17/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/17/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/17/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/17/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/17/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/17/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/17/task/17/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/17/task/17/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/17/task/17/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/17/task/17/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/17/task/17/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/17/task/17/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/179/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/179/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/179/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/179/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/179/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/179/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/179/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/179/task/179/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/179/task/179/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/179/task/179/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/179/task/179/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/179/task/179/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/179/task/179/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/18/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/18/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/18/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/18/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/18/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/18/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/18/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/18/task/18/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/18/task/18/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/18/task/18/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/18/task/18/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/18/task/18/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/18/task/18/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/180/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/180/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/180/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/180/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/180/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/180/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/180/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/180/task/180/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/180/task/180/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/180/task/180/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/180/task/180/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/180/task/180/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/180/task/180/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/19/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/19/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/19/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/19/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/19/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/19/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/19/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/19/task/19/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/19/task/19/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/19/task/19/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/19/task/19/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/19/task/19/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/19/task/19/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/2/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/2/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/2/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/2/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/2/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/2/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/2/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/2/task/2/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/2/task/2/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/2/task/2/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/2/task/2/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/2/task/2/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/2/task/2/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/20/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/20/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/20/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/20/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/20/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/20/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/20/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/20/task/20/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/20/task/20/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/20/task/20/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/20/task/20/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/20/task/20/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/20/task/20/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/21/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/21/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/21/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/21/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/21/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/21/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/21/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/21/task/21/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/21/task/21/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/21/task/21/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/21/task/21/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/21/task/21/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/21/task/21/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/219/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/219/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/219/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/219/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/219/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/219/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/219/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/219/task/219/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/219/task/219/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/219/task/219/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/219/task/219/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/219/task/219/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/219/task/219/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/22/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/22/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/22/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/22/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/22/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/22/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/22/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/22/task/22/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/22/task/22/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/22/task/22/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/22/task/22/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/22/task/22/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/22/task/22/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/23/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/23/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/23/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/23/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/23/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/23/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/23/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/23/task/23/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/23/task/23/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/23/task/23/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/23/task/23/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/23/task/23/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/23/task/23/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/24/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/24/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/24/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/24/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/24/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/24/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/24/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/24/task/24/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/24/task/24/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/24/task/24/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/24/task/24/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/24/task/24/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/24/task/24/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/246/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/246/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/246/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/246/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/246/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/246/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/246/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/246/task/246/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/246/task/246/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/246/task/246/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/246/task/246/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/246/task/246/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/246/task/246/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/248/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/248/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/248/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/248/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/248/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/248/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/248/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/248/task/248/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/248/task/248/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/248/task/248/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/248/task/248/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/248/task/248/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/248/task/248/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/249/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/249/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/249/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/249/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/249/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/249/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/249/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/249/task/249/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/249/task/249/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/249/task/249/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/249/task/249/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/249/task/249/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/249/task/249/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/25/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/25/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/25/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/25/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/25/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/25/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/25/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/25/task/25/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/25/task/25/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/25/task/25/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/25/task/25/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/25/task/25/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/25/task/25/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/250/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/250/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/250/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/250/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/250/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/250/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/250/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/250/task/250/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/250/task/250/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/250/task/250/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/250/task/250/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/250/task/250/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/250/task/250/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/252/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/252/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/252/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/252/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/252/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/252/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/252/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/252/task/252/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/252/task/252/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/252/task/252/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/252/task/252/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/252/task/252/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/252/task/252/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/253/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/253/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/253/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/253/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/253/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/253/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/253/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/253/task/253/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/253/task/253/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/253/task/253/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/253/task/253/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/253/task/253/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/253/task/253/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/254/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/254/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/254/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/254/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/254/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/254/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/254/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/254/task/254/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/254/task/254/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/254/task/254/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/254/task/254/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/254/task/254/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/254/task/254/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/255/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/255/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/255/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/255/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/255/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/255/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/255/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/255/task/255/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/255/task/255/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/255/task/255/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/255/task/255/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/255/task/255/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/255/task/255/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/256/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/256/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/256/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/256/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/256/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/256/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/256/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/256/task/256/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/256/task/256/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/256/task/256/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/256/task/256/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/256/task/256/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/256/task/256/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/26/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/26/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/26/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/26/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/26/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/26/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/26/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/26/task/26/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/26/task/26/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/26/task/26/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/26/task/26/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/26/task/26/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/26/task/26/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/288/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/288/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/288/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/288/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/288/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/288/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/288/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/288/task/288/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/288/task/288/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/288/task/288/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/288/task/288/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/288/task/288/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/288/task/288/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/3/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/3/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/3/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/3/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3/task/3/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3/task/3/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3/task/3/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/3/task/3/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/3/task/3/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/3/task/3/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/339/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/339/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/339/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/339/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/339/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/339/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/339/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/339/task/339/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/339/task/339/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/339/task/339/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/339/task/339/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/339/task/339/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/339/task/339/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3421/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3421/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3421/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/3421/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/3421/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/3421/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/3421/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3421/task/3421/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3421/task/3421/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3421/task/3421/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/3421/task/3421/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/3421/task/3421/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/3421/task/3421/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3503/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3503/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3503/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/3503/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/3503/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/3503/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/3503/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3503/task/3503/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3503/task/3503/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3503/task/3503/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/3503/task/3503/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/3503/task/3503/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/3503/task/3503/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3576/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3576/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3576/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/3576/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/3576/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/3576/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/3576/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3576/task/3576/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3576/task/3576/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3576/task/3576/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/3576/task/3576/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/3576/task/3576/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/3576/task/3576/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3918/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3918/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3918/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/3918/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/3918/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/3918/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/3918/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3918/task/3918/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3918/task/3918/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3918/task/3918/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/3918/task/3918/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/3918/task/3918/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/3918/task/3918/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3919/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3919/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3919/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/3919/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/3919/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/3919/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/3919/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3919/task/3919/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3919/task/3919/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3919/task/3919/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/3919/task/3919/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/3919/task/3919/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/3919/task/3919/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3921/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3921/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3921/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/3921/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/3921/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/3921/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/3921/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3921/task/3921/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3921/task/3921/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/3921/task/3921/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/3921/task/3921/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/3921/task/3921/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/3921/task/3921/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/4/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/4/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/4/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/4/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/4/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/4/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/4/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/4/task/4/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/4/task/4/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/4/task/4/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/4/task/4/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/4/task/4/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/4/task/4/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/484/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/484/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/484/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/484/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/484/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/484/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/484/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/484/task/484/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/484/task/484/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/484/task/484/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/484/task/484/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/484/task/484/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/484/task/484/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/485/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/485/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/485/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/485/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/485/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/485/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/485/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/485/task/485/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/485/task/485/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/485/task/485/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/485/task/485/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/485/task/485/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/485/task/485/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/485/task/498/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/485/task/498/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/485/task/498/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/485/task/498/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/485/task/498/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/485/task/498/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/515/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/515/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/515/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/515/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/515/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/515/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/515/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/515/task/515/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/515/task/515/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/515/task/515/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/515/task/515/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/515/task/515/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/515/task/515/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/515/task/580/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/515/task/580/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/515/task/580/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/515/task/580/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/515/task/580/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/515/task/580/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/515/task/630/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/515/task/630/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/515/task/630/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/515/task/630/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/515/task/630/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/515/task/630/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/516/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/516/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/516/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/516/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/516/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/516/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/516/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/516/task/516/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/516/task/516/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/516/task/516/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/516/task/516/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/516/task/516/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/516/task/516/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/519/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/519/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/519/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/519/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/519/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/519/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/519/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/519/task/519/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/519/task/519/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/519/task/519/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/519/task/519/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/519/task/519/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/519/task/519/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/520/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/520/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/520/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/520/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/520/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/520/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/520/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/520/task/520/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/520/task/520/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/520/task/520/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/520/task/520/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/520/task/520/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/520/task/520/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/522/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/522/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/522/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/522/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/522/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/522/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/522/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/522/task/522/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/522/task/522/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/522/task/522/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/522/task/522/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/522/task/522/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/522/task/522/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/523/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/523/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/523/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/523/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/523/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/523/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/523/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/523/task/523/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/523/task/523/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/523/task/523/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/523/task/523/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/523/task/523/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/523/task/523/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/523/task/650/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/523/task/650/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/523/task/650/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/523/task/650/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/523/task/650/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/523/task/650/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/523/task/656/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/523/task/656/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/523/task/656/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/523/task/656/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/523/task/656/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/523/task/656/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/531/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/531/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/531/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/531/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/531/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/531/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/531/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/531/task/531/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/531/task/531/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/531/task/531/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/531/task/531/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/531/task/531/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/531/task/531/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/532/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/532/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/532/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/532/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/532/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/532/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/532/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/532/task/532/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/532/task/532/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/532/task/532/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/532/task/532/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/532/task/532/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/532/task/532/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/532/task/581/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/532/task/581/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/532/task/581/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/532/task/581/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/532/task/581/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/532/task/581/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/532/task/628/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/532/task/628/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/532/task/628/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/532/task/628/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/532/task/628/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/532/task/628/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/534/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/534/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/534/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/534/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/534/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/534/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/534/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/534/task/534/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/534/task/534/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/534/task/534/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/534/task/534/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/534/task/534/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/534/task/534/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/534/task/583/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/534/task/583/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/534/task/583/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/534/task/583/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/534/task/583/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/534/task/583/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/534/task/584/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/534/task/584/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/534/task/584/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/534/task/584/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/534/task/584/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/534/task/584/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/534/task/585/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/534/task/585/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/534/task/585/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/534/task/585/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/534/task/585/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/534/task/585/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/536/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/536/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/536/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/536/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/2016/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/2016/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/2016/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/2016/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/2016/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/2016/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/2017/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/2017/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/2017/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/2017/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/2017/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/2017/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/2018/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/2018/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/2018/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/2018/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/2018/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/2018/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/2019/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/2019/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/2019/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/2019/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/2019/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/2019/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/536/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/536/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/536/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/536/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/536/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/536/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/760/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/760/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/760/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/760/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/760/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/760/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/762/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/762/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/762/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/762/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/762/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/762/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/763/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/763/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/763/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/763/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/763/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/763/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/764/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/764/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/764/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/764/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/764/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/764/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/769/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/769/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/769/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/769/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/769/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/769/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/770/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/770/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/770/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/770/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/770/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/770/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/787/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/787/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/787/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/787/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/787/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/787/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/796/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/796/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/536/task/796/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/796/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/796/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/536/task/796/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/537/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/537/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/537/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/537/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/537/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/537/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/537/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/537/task/537/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/537/task/537/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/537/task/537/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/537/task/537/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/537/task/537/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/537/task/537/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/537/task/582/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/537/task/582/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/537/task/582/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/537/task/582/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/537/task/582/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/537/task/582/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/537/task/631/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/537/task/631/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/537/task/631/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/537/task/631/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/537/task/631/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/537/task/631/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/538/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/538/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/538/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/538/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/538/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/538/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/538/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/538/task/538/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/538/task/538/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/538/task/538/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/538/task/538/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/538/task/538/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/538/task/538/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/540/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/540/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/540/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/540/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/540/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/540/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/540/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/540/task/540/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/540/task/540/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/540/task/540/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/540/task/540/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/540/task/540/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/540/task/540/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/540/task/564/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/540/task/564/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/540/task/564/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/540/task/564/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/540/task/564/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/540/task/564/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/540/task/629/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/540/task/629/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/540/task/629/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/540/task/629/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/540/task/629/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/540/task/629/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/540/task/655/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/540/task/655/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/540/task/655/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/540/task/655/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/540/task/655/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/540/task/655/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/540/task/696/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/540/task/696/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/540/task/696/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/540/task/696/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/540/task/696/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/540/task/696/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/542/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/542/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/542/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/542/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/542/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/542/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/542/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/542/task/542/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/542/task/542/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/542/task/542/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/542/task/542/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/542/task/542/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/542/task/542/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/563/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/563/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/563/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/563/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/563/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/563/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/563/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/563/task/563/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/563/task/563/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/563/task/563/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/563/task/563/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/563/task/563/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/563/task/563/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/6/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/6/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/6/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/6/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/6/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/6/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/6/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/6/task/6/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/6/task/6/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/6/task/6/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/6/task/6/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/6/task/6/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/6/task/6/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/620/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/620/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/620/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/620/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/620/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/620/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/620/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/620/task/620/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/620/task/620/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/620/task/620/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/620/task/620/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/620/task/620/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/620/task/620/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/632/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/632/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/632/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/632/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/632/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/632/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/632/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/632/task/632/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/632/task/632/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/632/task/632/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/632/task/632/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/632/task/632/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/632/task/632/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/632/task/645/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/632/task/645/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/632/task/645/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/632/task/645/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/632/task/645/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/632/task/645/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/632/task/646/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/632/task/646/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/632/task/646/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/632/task/646/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/632/task/646/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/632/task/646/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/644/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/644/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/644/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/644/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/644/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/644/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/644/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/644/task/644/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/644/task/644/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/644/task/644/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/644/task/644/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/644/task/644/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/644/task/644/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/644/task/666/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/644/task/666/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/644/task/666/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/644/task/666/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/644/task/666/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/644/task/666/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/644/task/668/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/644/task/668/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/644/task/668/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/644/task/668/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/644/task/668/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/644/task/668/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/660/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/660/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/660/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/660/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/660/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/660/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/660/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/660/task/660/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/660/task/660/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/660/task/660/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/660/task/660/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/660/task/660/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/660/task/660/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/660/task/765/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/660/task/765/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/660/task/765/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/660/task/765/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/660/task/765/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/660/task/765/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/706/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/706/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/706/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/706/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/706/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/706/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/706/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/706/task/706/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/706/task/706/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/706/task/706/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/706/task/706/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/706/task/706/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/706/task/706/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/706/task/728/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/706/task/728/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/706/task/728/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/706/task/728/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/706/task/728/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/706/task/728/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/706/task/729/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/706/task/729/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/706/task/729/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/706/task/729/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/706/task/729/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/706/task/729/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/710/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/710/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/710/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/710/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/710/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/710/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/710/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/710/task/710/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/710/task/710/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/710/task/710/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/710/task/710/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/710/task/710/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/710/task/710/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/712/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/712/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/712/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/712/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/712/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/712/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/712/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/712/task/712/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/712/task/712/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/712/task/712/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/712/task/712/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/712/task/712/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/712/task/712/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/72/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/72/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/72/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/72/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/72/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/72/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/72/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/72/task/72/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/72/task/72/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/72/task/72/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/72/task/72/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/72/task/72/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/72/task/72/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/73/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/73/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/73/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/73/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/73/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/73/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/73/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/73/task/73/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/73/task/73/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/73/task/73/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/73/task/73/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/73/task/73/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/73/task/73/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/74/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/74/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/74/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/74/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/74/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/74/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/74/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/74/task/74/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/74/task/74/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/74/task/74/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/74/task/74/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/74/task/74/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/74/task/74/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/75/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/75/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/75/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/75/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/75/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/75/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/75/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/75/task/75/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/75/task/75/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/75/task/75/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/75/task/75/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/75/task/75/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/75/task/75/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/76/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/76/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/76/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/76/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/76/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/76/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/76/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/76/task/76/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/76/task/76/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/76/task/76/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/76/task/76/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/76/task/76/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/76/task/76/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/77/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/77/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/77/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/77/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/77/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/77/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/77/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/77/task/77/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/77/task/77/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/77/task/77/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/77/task/77/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/77/task/77/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/77/task/77/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/78/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/78/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/78/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/78/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/78/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/78/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/78/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/78/task/78/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/78/task/78/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/78/task/78/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/78/task/78/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/78/task/78/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/78/task/78/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/79/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/79/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/79/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/79/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/79/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/79/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/79/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/79/task/79/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/79/task/79/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/79/task/79/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/79/task/79/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/79/task/79/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/79/task/79/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/80/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/80/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/80/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/80/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/80/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/80/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/80/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/80/task/80/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/80/task/80/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/80/task/80/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/80/task/80/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/80/task/80/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/80/task/80/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/82/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/82/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/82/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/82/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/82/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/82/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/82/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/82/task/82/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/82/task/82/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/82/task/82/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/82/task/82/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/82/task/82/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/82/task/82/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/84/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/84/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/84/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/84/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/84/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/84/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/84/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/84/task/84/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/84/task/84/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/84/task/84/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/84/task/84/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/84/task/84/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/84/task/84/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/85/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/85/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/85/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/85/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/85/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/85/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/85/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/85/task/85/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/85/task/85/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/85/task/85/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/85/task/85/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/85/task/85/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/85/task/85/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/87/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/87/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/87/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/87/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/87/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/87/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/87/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/87/task/87/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/87/task/87/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/87/task/87/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/87/task/87/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/87/task/87/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/87/task/87/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/871/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/871/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/871/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/871/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/871/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/871/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/871/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/871/task/871/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/871/task/871/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/871/task/871/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/871/task/871/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/871/task/871/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/871/task/871/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/871/task/885/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/871/task/885/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/871/task/885/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/871/task/885/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/871/task/885/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/871/task/885/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/871/task/886/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/871/task/886/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/871/task/886/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/871/task/886/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/871/task/886/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/871/task/886/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/876/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/876/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/876/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/876/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/876/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/876/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/876/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/876/task/876/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/876/task/876/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/876/task/876/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/876/task/876/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/876/task/876/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/876/task/876/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/876/task/877/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/876/task/877/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/876/task/877/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/876/task/877/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/876/task/877/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/876/task/877/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/876/task/878/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/876/task/878/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/876/task/878/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/876/task/878/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/876/task/878/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/876/task/878/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/876/task/879/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/876/task/879/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/876/task/879/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/876/task/879/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/876/task/879/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/876/task/879/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/876/task/880/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/876/task/880/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/876/task/880/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/876/task/880/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/876/task/880/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/876/task/880/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/876/task/881/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/876/task/881/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/876/task/881/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/876/task/881/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/876/task/881/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/876/task/881/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/876/task/882/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/876/task/882/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/876/task/882/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/876/task/882/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/876/task/882/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/876/task/882/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/876/task/883/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/876/task/883/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/876/task/883/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/876/task/883/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/876/task/883/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/876/task/883/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/876/task/884/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/876/task/884/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/876/task/884/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/876/task/884/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/876/task/884/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/876/task/884/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/88/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/88/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/88/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/88/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/88/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/88/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/88/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/88/task/88/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/88/task/88/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/88/task/88/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/88/task/88/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/88/task/88/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/88/task/88/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/889/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/889/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/889/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/889/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/889/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/889/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/889/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/889/task/889/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/889/task/889/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/889/task/889/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/889/task/889/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/889/task/889/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/889/task/889/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/889/task/890/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/889/task/890/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/889/task/890/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/889/task/890/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/889/task/890/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/889/task/890/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/889/task/891/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/889/task/891/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/889/task/891/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/889/task/891/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/889/task/891/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/889/task/891/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/89/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/89/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/89/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/89/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/89/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/89/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/89/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/89/task/89/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/89/task/89/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/89/task/89/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/89/task/89/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/89/task/89/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/89/task/89/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/895/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/895/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/895/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/895/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/895/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/895/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/895/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/895/task/895/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/895/task/895/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/895/task/895/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/895/task/895/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/895/task/895/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/895/task/895/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/9/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/9/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/9/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/9/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/9/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/9/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/9/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/9/task/9/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/9/task/9/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/9/task/9/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/9/task/9/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/9/task/9/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/9/task/9/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/90/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/90/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/90/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/90/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/90/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/90/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/90/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/90/task/90/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/90/task/90/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/90/task/90/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/90/task/90/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/90/task/90/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/90/task/90/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/905/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/905/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/905/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/905/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/905/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/905/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/905/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/905/task/1137/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/905/task/1137/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/905/task/1137/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/905/task/1137/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/905/task/1137/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/905/task/1137/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/905/task/905/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/905/task/905/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/905/task/905/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/905/task/905/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/905/task/905/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/905/task/905/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/905/task/906/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/905/task/906/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/905/task/906/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/905/task/906/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/905/task/906/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/905/task/906/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/905/task/907/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/905/task/907/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/905/task/907/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/905/task/907/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/905/task/907/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/905/task/907/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/91/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/91/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/91/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/91/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/91/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/91/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/91/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/91/task/91/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/91/task/91/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/91/task/91/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/91/task/91/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/91/task/91/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/91/task/91/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/912/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/912/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/912/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/912/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/912/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/912/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/912/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/912/task/912/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/912/task/912/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/912/task/912/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/912/task/912/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/912/task/912/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/912/task/912/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/912/task/913/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/912/task/913/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/912/task/913/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/912/task/913/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/912/task/913/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/912/task/913/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/912/task/914/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/912/task/914/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/912/task/914/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/912/task/914/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/912/task/914/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/912/task/914/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/92/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/92/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/92/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/92/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/92/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/92/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/92/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/92/task/92/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/92/task/92/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/92/task/92/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/92/task/92/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/92/task/92/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/92/task/92/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/94/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/94/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/94/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/94/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/94/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/94/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/94/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/94/task/94/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/94/task/94/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/94/task/94/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/94/task/94/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/94/task/94/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/94/task/94/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/96/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/96/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/96/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/96/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/96/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/96/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/96/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/96/task/96/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/96/task/96/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/96/task/96/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/96/task/96/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/96/task/96/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/96/task/96/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/989/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/989/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/989/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/989/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/989/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/989/map_files': Permesso negato
+ls: impossibile aprire la directory '/proc/989/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/989/task/989/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/989/task/989/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/989/task/989/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/989/task/989/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/989/task/989/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/989/task/989/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/989/task/992/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/989/task/992/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/989/task/992/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/989/task/992/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/989/task/992/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/989/task/992/ns': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/989/task/993/cwd': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/989/task/993/root': Permesso negato
+ls: impossibile leggere il collegamento simbolico '/proc/989/task/993/exe': Permesso negato
+ls: impossibile aprire la directory '/proc/989/task/993/fd': Permesso negato
+ls: impossibile aprire la directory '/proc/989/task/993/fdinfo': Permesso negato
+ls: impossibile aprire la directory '/proc/989/task/993/ns': Permesso negato
+ls: impossibile aprire la directory '/proc/tty/driver': Permesso negato
+ls: impossibile aprire la directory '/root': Permesso negato
+ls: impossibile aprire la directory '/run/cups/certs': Permesso negato
+ls: impossibile aprire la directory '/run/gdm3': Permesso negato
+ls: impossibile aprire la directory '/run/initramfs': Permesso negato
+ls: impossibile aprire la directory '/run/openvpn-client': Permesso negato
+ls: impossibile aprire la directory '/run/openvpn-server': Permesso negato
+ls: impossibile aprire la directory '/run/speech-dispatcher': Permesso negato
+ls: impossibile aprire la directory '/run/sudo': Permesso negato
+ls: impossibile aprire la directory '/run/systemd/inaccessible': Permesso negato
+ls: impossibile aprire la directory '/run/systemd/resolve/netif': Permesso negato
+ls: impossibile aprire la directory '/run/systemd/unit-root': Permesso negato
+ls: impossibile aprire la directory '/run/udisks2': Permesso negato
+ls: impossibile aprire la directory '/run/user/1000/inaccessible': Permesso negato
+ls: impossibile aprire la directory '/snap/core18/1988/etc/ssl/private': Permesso negato
+ls: impossibile aprire la directory '/snap/core18/1988/root': Permesso negato
+ls: impossibile aprire la directory '/snap/core18/1988/var/cache/ldconfig': Permesso negato
+ls: impossibile aprire la directory '/snap/core18/1988/var/lib/private': Permesso negato
+ls: impossibile aprire la directory '/sys/fs/bpf': Permesso negato
+ls: impossibile aprire la directory '/sys/fs/pstore': Permesso negato
+ls: impossibile aprire la directory '/sys/kernel/debug': Permesso negato
+ls: impossibile aprire la directory '/sys/kernel/tracing': Permesso negato
+ls: impossibile aprire la directory '/tmp/snap.snap-store': Permesso negato
+ls: impossibile aprire la directory '/tmp/systemd-private-bada3aee2bec4114aedc3e4f4a4709bf-colord.service-s3q2yf': Permesso negato
+ls: impossibile aprire la directory '/tmp/systemd-private-bada3aee2bec4114aedc3e4f4a4709bf-fwupd.service-K7rfYf': Permesso negato
+ls: impossibile aprire la directory '/tmp/systemd-private-bada3aee2bec4114aedc3e4f4a4709bf-ModemManager.service-IH3iYf': Permesso negato
+ls: impossibile aprire la directory '/tmp/systemd-private-bada3aee2bec4114aedc3e4f4a4709bf-switcheroo-control.service-bYckGi': Permesso negato
+ls: impossibile aprire la directory '/tmp/systemd-private-bada3aee2bec4114aedc3e4f4a4709bf-systemd-logind.service-kKomih': Permesso negato
+ls: impossibile aprire la directory '/tmp/systemd-private-bada3aee2bec4114aedc3e4f4a4709bf-systemd-resolved.service-3gih3h': Permesso negato
+ls: impossibile aprire la directory '/tmp/systemd-private-bada3aee2bec4114aedc3e4f4a4709bf-systemd-timesyncd.service-0Zcgbi': Permesso negato
+ls: impossibile aprire la directory '/tmp/systemd-private-bada3aee2bec4114aedc3e4f4a4709bf-upower.service-Iko2Qh': Permesso negato
+ls: impossibile aprire la directory '/var/cache/apparmor/26c39714.0': Permesso negato
+ls: impossibile aprire la directory '/var/cache/apparmor/83ba7c1a.0': Permesso negato
+ls: impossibile aprire la directory '/var/cache/apt/archives/partial': Permesso negato
+ls: impossibile aprire la directory '/var/cache/cups': Permesso negato
+ls: impossibile aprire la directory '/var/cache/ldconfig': Permesso negato
+ls: impossibile aprire la directory '/var/cache/private': Permesso negato
+ls: impossibile aprire la directory '/var/lib/AccountsService/users': Permesso negato
+ls: impossibile aprire la directory '/var/lib/apt/lists/partial': Permesso negato
+ls: impossibile aprire la directory '/var/lib/fwupd/gnupg': Permesso negato
+ls: impossibile aprire la directory '/var/lib/NetworkManager': Permesso negato
+ls: impossibile aprire la directory '/var/lib/polkit-1': Permesso negato
+ls: impossibile aprire la directory '/var/lib/private': Permesso negato
+ls: impossibile aprire la directory '/var/lib/snapd/cookie': Permesso negato
+ls: impossibile aprire la directory '/var/lib/snapd/void': Permesso negato
+ls: impossibile aprire la directory '/var/lib/udisks2': Permesso negato
+ls: impossibile aprire la directory '/var/lib/update-notifier/package-data-downloads/partial': Permesso negato
+ls: impossibile aprire la directory '/var/log/gdm3': Permesso negato
+ls: impossibile aprire la directory '/var/log/private': Permesso negato
+ls: impossibile aprire la directory '/var/log/speech-dispatcher': Permesso negato
+ls: impossibile aprire la directory '/var/spool/cron/crontabs': Permesso negato
+ls: impossibile aprire la directory '/var/spool/cups': Permesso negato
+ls: impossibile aprire la directory '/var/spool/rsyslog': Permesso negato
+ls: impossibile aprire la directory '/var/tmp/systemd-private-bada3aee2bec4114aedc3e4f4a4709bf-colord.service-LhuaSh': Permesso negato
+ls: impossibile aprire la directory '/var/tmp/systemd-private-bada3aee2bec4114aedc3e4f4a4709bf-fwupd.service-uUu3Ph': Permesso negato
+ls: impossibile aprire la directory '/var/tmp/systemd-private-bada3aee2bec4114aedc3e4f4a4709bf-ModemManager.service-GlksUe': Permesso negato
+ls: impossibile aprire la directory '/var/tmp/systemd-private-bada3aee2bec4114aedc3e4f4a4709bf-switcheroo-control.service-fkdsgg': Permesso negato
+ls: impossibile aprire la directory '/var/tmp/systemd-private-bada3aee2bec4114aedc3e4f4a4709bf-systemd-logind.service-Wb7U7i': Permesso negato
+ls: impossibile aprire la directory '/var/tmp/systemd-private-bada3aee2bec4114aedc3e4f4a4709bf-systemd-resolved.service-NgN42e': Permesso negato
+ls: impossibile aprire la directory '/var/tmp/systemd-private-bada3aee2bec4114aedc3e4f4a4709bf-systemd-timesyncd.service-t1ISXf': Permesso negato
+ls: impossibile aprire la directory '/var/tmp/systemd-private-bada3aee2bec4114aedc3e4f4a4709bf-upower.service-Dafpcf': Permesso negato
