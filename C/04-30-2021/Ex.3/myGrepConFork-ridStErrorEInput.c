@@ -20,11 +20,16 @@ int main(int argc, char const *argv[]){
 
     if(pid == 0){
         printf("Esecuzione del grep da parte del figlio con pid %d\n", getpid());
+        close(0);
+        if((open(argv[2], O_RDONLY)) < 0){
+            printf("Errore nell'apertura del file\n");
+            exit(-1);
+        }
         close(1);
         open("/dev/null", O_WRONLY);
         close(2);
         open("/dev/null", O_WRONLY);
-        execlp("grep", "grep", argv[1], argv[2], (char*) 0);
+        execlp("grep", "grep", argv[1], (char*) 0);
         exit(-1);
     }
 
